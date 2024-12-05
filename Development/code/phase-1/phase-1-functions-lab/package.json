@@ -1,0 +1,25 @@
+{
+  "name": "phase-1-functions-lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rayjon575/phase-1-functions-lab.git"
+  },
+  "keywords": [
+    "functions"
+  ],
+  "author": "kjayy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayjon575/phase-1-functions-lab/issues"
+  },
+  "homepage": "https://github.com/rayjon575/phase-1-functions-lab#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
